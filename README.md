@@ -1,3 +1,7 @@
+<p align = "center">
+  <img alt="header" width="110%" src="https://user-images.githubusercontent.com/60221349/98634594-9a1b5780-2349-11eb-9556-8436738a9fd8.png" />
+</p>
+
 ## Hi there, I'm Rajan Keshari 👋
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
