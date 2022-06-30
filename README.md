@@ -9,7 +9,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying at IIT(ISM) Dhanbad .
-- 🥅 &nbsp; New Year(2021) Goals: Contribute more to Open Source projects . 
+- 🥅 &nbsp; New Year Goals: Contribute more to Open Source projects . 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
